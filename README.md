@@ -1,16 +1,15 @@
-### Hi there 👋
+<img height = "500" src = "https://map.illinois.edu/webservices/images/map/header_map.jpg" />
 
-<!--
-**swsamk/swsamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :man_technologist: Sangwon Kim 
 
-Here are some ideas to get you started:
+**'Data Enthusiast (Data Analytics&Science/Business Analytics/Back-end)'**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! My name is Sangwon Kim and I go by Sam. I'm an undergraduate student majoring in Statistics with an emphasis on computational statistics and Data Science at the University of Illinois Urbana-Champaign. I'm deeply interested in data science & business analytics. This GitHub contains several different data projects that I have done. I'm still working on other data projects and trying to upload them on a regular basis. Hope you enjoy my work! (Scroll down to check my pinned repos.)
+
+
+## Contact Info
+
+## Languages and Tools
+
+## Education
+
