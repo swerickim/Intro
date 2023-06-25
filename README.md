@@ -1,4 +1,4 @@
-<img height = "500" src = "https://map.illinois.edu/webservices/images/map/header_map.jpg" />
+<img height = "350" src = "https://map.illinois.edu/webservices/images/map/header_map.jpg" />
 
 # :man_technologist: Sangwon Kim 
 
