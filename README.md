@@ -1,6 +1,6 @@
 <img height = "500" src = "https://map.illinois.edu/webservices/images/map/header_map.jpg" />
 
-# :man_technologist: Sangwon Kim 
+# :man_technologist: SangWon Kim 
 
 **`Data Enthusiast (Data Analytics&Science/Business Analytics)`**
 
