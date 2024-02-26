@@ -4,7 +4,8 @@
 
 **`Data Enthusiast (Data Analytics&Science/Business Analytics)`**
 
-:wave: Hi! My name is Sangwon Kim and I go by Eric. I'm an undergraduate student majoring in Statistics with an emphasis on computational statistics and Data Science at the University of Illinois Urbana-Champaign. This GitHub contains several different data projects that I have done. I'm still working on other data projects and trying to upload them on a regular basis. Hope you enjoy my work! (Scroll down to check my pinned repos.)
+:wave: Hi! My name is Sangwon Kim and I go by Eric. I'm an undergraduate student majoring in Statistics with an emphasis on Computational Statistics and Data Science at the University of Illinois Urbana-Champaign. This GitHub contains several different data projects that I have done. I'm still working on other data projects and trying to upload them on a regular basis. Hope you enjoy my work! (Scroll down to check my pinned repos.) 
+This is my tableau data visulization project link as well: https://public.tableau.com/app/profile/sangwon.eric.kim/vizzes
 
 
 ## Contact Info
