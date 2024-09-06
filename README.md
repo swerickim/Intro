@@ -4,7 +4,7 @@
 
 **`Data Enthusiast (Data Analytics&Science/Business Analytics)`**
 
-:wave: Hi! I'm Eric Kim. I'm an undergraduate student majoring in Statistics with an emphasis on Data Science and Big Data Analytics at the University of Illinois Urbana-Champaign. This GitHub contains several different data projects that I have done. I'm still working on other data projects and trying to upload them on a regular basis. Hope you enjoy my work! (Scroll down to check my pinned repos.) 
+:wave: Hi! I'm Eric Kim. I'm a senior undergraduate student majoring in Statistics with a minor in Data Science at the University of Illinois Urbana-Champaign. This GitHub contains several different data projects that I have done. I'm still working on other data projects. Hope you enjoy my work!
 This is my tableau data visulization project link as well: https://public.tableau.com/app/profile/sangwon.eric.kim/vizzes
 
 
@@ -27,4 +27,4 @@ This is my tableau data visulization project link as well: https://public.tablea
 <img align="left" alt="UIUClogo" width="30px" style="padding-right:10px;" src="http://publish.illinois.edu/inspire-illinois/files/2014/04/UIUC-logo.gif" />
  University of Illinois Urbana-Champaign - Champaign, IL, USA
 <br />
- (Bachelor of Science in Statistics) / 08.2018 ~ 12.2024
+ (Bachelor of Science in Statistics & Minor in Data Science) / 08.2018 ~ 12.2024
