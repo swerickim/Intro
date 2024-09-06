@@ -27,4 +27,4 @@ This is my tableau data visulization project link as well: https://public.tablea
 <img align="left" alt="UIUClogo" width="30px" style="padding-right:10px;" src="http://publish.illinois.edu/inspire-illinois/files/2014/04/UIUC-logo.gif" />
  University of Illinois Urbana-Champaign - Champaign, IL, USA
 <br />
- (Bachelor of Science in Statistics & Minor in Data Science) / 08.2018 ~ 12.2024
+ (B.S. in Statistics & Minor in Data Science) / 08.2018 ~ 12.2024
