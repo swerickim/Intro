@@ -17,7 +17,6 @@ I hope you enjoy exploring my work! Here’s a link to my Tableau data visualiza
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="rstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="sql" width="30px" style="padding-right:10px;" src="https://github.com/swsamk/swsamk/assets/68633491/b6fd7d20-8b2a-4a34-9f32-337cb4523d84" />
-<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="excel" width="30px" style="padding-right:10px;" src="https://github.com/swsamk/swsamk/assets/68633491/2a9da8ae-d775-4944-9258-44c992a13959" />
 <img align="left" alt="tableau" width="30px" style="padding-right:10px;" src="https://github.com/swsamk/swsamk/assets/68633491/c6e859dc-f025-4d07-a193-2244ac75fde1" />
 <br />
